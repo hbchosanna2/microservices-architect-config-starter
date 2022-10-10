@@ -6,12 +6,15 @@ Helm Change
 this is an edit
 
 This is by Emmanuel
+this is Jonas moleka , LEARNING NEW STUFF ON GITHUT
+HOPE AM DOING JUST THE WRITE THING HERE 
 
 Architecture of sample multiple microservices developed in different technologies - Spring Boot, Node.js, Python, React.js in a project.
 Microservices connected by an API Gateway using Netflix Zuul.
 
 
 ## Application Architecture
+YES U ARE CORRECT 
 
 The application consists of 6 different Microservices
 
