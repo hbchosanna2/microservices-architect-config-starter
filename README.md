@@ -9,7 +9,7 @@ This is by Emmanuel.
 
 Frank was here too.
 
-Hello Valentine
+Hello Valentine (practice 1)
 
 Architecture of sample multiple microservices developed in different technologies - Spring Boot, Node.js, Python, React.js in a project.
 Microservices connected by an API Gateway using Netflix Zuul.
