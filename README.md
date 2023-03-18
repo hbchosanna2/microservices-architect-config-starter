@@ -5,9 +5,7 @@ Helm Change
 
 this is an edit
 
-This is by Emmanuel.
-
-Frank was here too.
+This is by Emmanuel
 
 Hello Valentine
 
